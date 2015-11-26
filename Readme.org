@@ -1,12 +1,15 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:50.618989
-#+TITLE: 華嚴經行願品疏鈔
-#+PROPERTY: CBETA_ID X05n0229
-#+PROPERTY: ID KR6e0071
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 05, No. 229
-#+PROPERTY: VOL 05
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴經行願品疏鈔 / master
+#+DATE: 2015-11-26 14:15:07.194681
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0071_X_000-0220b>
-[[file:KR6e0071_001.txt::001-0220b1][No.229-A大方廣佛華嚴經普賢行願品別行疏鈔重刊序¶]]
+* 目次
+* [[file:KR6e0071_001.txt::001-0220b1][No.229-A大方廣佛華嚴經普賢行願品別行疏鈔重刊序¶]]
+* 卷
+** [[file:KR6e0071_001.txt][華嚴經行願品疏鈔 1]]
+** [[file:KR6e0071_002.txt][華嚴經行願品疏鈔 2]]
+** [[file:KR6e0071_003.txt][華嚴經行願品疏鈔 3]]
+** [[file:KR6e0071_004.txt][華嚴經行願品疏鈔 4]]
+** [[file:KR6e0071_005.txt][華嚴經行願品疏鈔 5]]
+** [[file:KR6e0071_006.txt][華嚴經行願品疏鈔 6]]
